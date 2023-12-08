@@ -166,7 +166,7 @@
   
       "background": {
     "blur": 0.5,
-    "url": "https://media.discordapp.net/attachments/1135567073477673053/1182649112538132531/IMG_6916.jpg?ex=658576d0&is=657301d0&hm=0d4a529f6924955d19bd196e012",
+    "url": "https://cdn.discordapp.com/attachments/1135567073477673053/1182657449744928768/illust_113178876_20231106_101450.png?ex=65857e94&is=65730994&hm=86bd0099edd315d9ea2205480f3ac4dd4749dcebdadd87993d3ba6dc5b0ae7cd&",
     "alpha": 0.7
     },
     "color": "#4d4463"
