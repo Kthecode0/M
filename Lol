@@ -1,9 +1,9 @@
 "{
-    "name": "KNZ",
-    "description": "A theme made by HOW KNZ IS COOK",
+    "name": "Vision",
+    "description": "A theme made by Vodka Martini",
     "authors": [
         {
-            "name": "K COOK NOW",
+            "name": "Vodka Martini",
             "id": "1068030255455015013"
         }
     ],
@@ -170,4 +170,5 @@
     "alpha": 0.7
     },
     "color": "#4d4463"
-}
+}"
+ https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Vision.json#:~:text=%7B%0A%20%20%20%20%22name%22%3A%20%22Vision%22%2C%0A%20%20%20%20%22description,0.7%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color%22%3A%20%22%234d4463%22%0A%7D
