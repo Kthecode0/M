@@ -1,9 +1,9 @@
 "{
-    "name": "Vision",
-    "description": "A theme made by Vodka Martini",
+    "name": "KNZ",
+    "description": "A theme made by HOW KNZ IS COOK",
     "authors": [
         {
-            "name": "Vodka Martini",
+            "name": "K COOK NOW",
             "id": "1068030255455015013"
         }
     ],
